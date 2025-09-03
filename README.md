@@ -1,4 +1,5 @@
 # Java-Console-Calculator
+updated
 
 This is a simple command-line calculator built in Java. It allows a user to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers.
 
